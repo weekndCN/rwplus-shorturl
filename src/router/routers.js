@@ -1,4 +1,4 @@
-import { qrRouter } from "./qeRouter"
+import { qrRouter } from "./qrRouter"
 
 const routes = [...qrRouter]
 
